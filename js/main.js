@@ -17,7 +17,6 @@ submitBtn.addEventListener('click', function (e) {
       document.getElementById("password1").style = "border: 1px solid green";
       document.getElementById("password2").style = "border: 1px solid green";
     }
-    // return true;
   }
 });
 
